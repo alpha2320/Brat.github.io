@@ -1,8 +1,16 @@
+@font-face {
+    font-family: 'brat';
+    src: url(./fonts/brat.ttf) ;
+    font-weight: normal;
+    font-style: 100;
+    
+}
+
 *{
     margin: 0px;
     padding: 0%;
     box-sizing: border-box;
-}
+    
 
 nav{
     display: flex;
@@ -10,7 +18,13 @@ nav{
     align-items: center;
     min-height: 8vh;
     background-color:#381383;
-  
+    position: fixed;
+     z-index: 10;
+
+    width: 100%;
+    
+    
+
 }
 
 
@@ -18,8 +32,10 @@ nav{
     color: black;
     letter-spacing: 2px;
     font-size: 46px;
-    font-family: bratt graner;
+    font-family: brat;
     color: white;
+    text-decoration: none;
+    list-style: none;
    
 
 
@@ -124,4 +140,7 @@ nav{
     transform: rotate( 45deg ) translate(-5px, -6px);
 
 }
-@import 'section1.scss'
+
+}
+
+@import 'main.scss'
