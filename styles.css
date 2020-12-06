@@ -5,6 +5,11 @@
   font-style: 100;
 }
 
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
 * {
   margin: 0px;
   padding: 0%;
@@ -222,7 +227,7 @@
   -ms-flex-item-align: center;
       -ms-grid-row-align: center;
       align-self: center;
-  color: white;
+  color: #e1e1e1;
   font-size: 256%;
   font-family: brat;
   font-size: 56px;
