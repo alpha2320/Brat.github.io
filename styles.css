@@ -52,7 +52,7 @@
 
 * .nav-link li {
   list-style: none;
-  font-family: bratt graner;
+  font-family: brat;
 }
 
 * .nav-link a {
@@ -224,6 +224,8 @@
       align-self: center;
   color: white;
   font-size: 256%;
+  font-family: brat;
+  font-size: 56px;
 }
 
 .container-2 .rounded-container2 p {
@@ -242,6 +244,7 @@
   left: 10%;
   right: 10%;
   color: white;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .container-2 .rounded-container2 .btn {
