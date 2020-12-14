@@ -287,6 +287,7 @@ html, body {
   -ms-grid-row-span: 1;
   grid-row: 2/3;
   color: #161515;
+  font-family: 'Roboto Slab', serif;
 }
 
 .container-2 .rounded-container2 .btn {
@@ -397,7 +398,7 @@ html, body {
   position: relative;
   width: 95%;
   left: 2.5%;
-  font-family: 'Lobster', cursive;
+  font-family: 'Roboto Slab', serif;
   font-size: 13px;
 }
 
@@ -541,7 +542,7 @@ footer {
     -ms-grid-column-span: 4;
     grid-column: 1/5;
     color: #e1e1e1;
-    font-family: 'Lobster', cursive;
+    font-family: 'Roboto Slab', serif;
     -ms-flex-line-pack: center;
         align-content: center;
     position: relative;
@@ -663,7 +664,7 @@ footer {
     position: relative;
     width: 95%;
     left: 2.5%;
-    font-family: 'Lobster ', cursive;
+    font-family: 'Roboto Slab', serif;
     font-size: 89%;
   }
   .container-3 .founder {
@@ -804,7 +805,7 @@ footer {
     -ms-grid-column-span: 4;
     grid-column: 1/5;
     color: #e1e1e1;
-    font-family: 'Lobster', cursive;
+    font-family: 'Roboto Slab', serif;
     -ms-flex-line-pack: center;
         align-content: center;
     position: relative;
@@ -926,7 +927,7 @@ footer {
     position: relative;
     width: 95%;
     left: 2.5%;
-    font-family: 'Lobster ', cursive;
+    font-family: 'Roboto Slab', serif;
     font-size: 85%;
   }
   .container-3 .founder {
