@@ -180,7 +180,7 @@
          
          
           
-          font-family:roboto;
+         font-family: 'Lobster Two', cursive;
           font-size: 13px;    
   
       }
@@ -247,7 +247,7 @@ footer{
 /////////////////////////////////////////////
 //responsive
 
-@media screen and (max-width:450px){
+@media screen and (max-width:550px){
 
     .container{
         height: 100%;
@@ -451,22 +451,22 @@ footer{
         font-size: 52px;  
           
     }
-
     blockquote{
-      grid-column: 1/4;
-       grid-row: 2/3;
-       background-color:#161515 ;
-       color: #e1e1e1;
-       padding: 15px;
-       top: -4%;
-       border-radius: 20px;
-       position: relative;
-       width: 95%;
-       left: 2.5%;
-       font-family:roboto;
-       font-size: 13px;    
-
-    }
+        grid-column: 1/4;
+         grid-row: 2/3;
+         background-color:#161515 ;
+         color: #e1e1e1;
+         padding: 15px;
+         top: -4%;
+         border-radius: 20px;
+         position: relative;
+         width: 95%;
+         left: 2.5%;
+         font-family: 'Lobster Two', cursive;
+         font-size: 89%;    
+  
+      }
+  
 
     .founder{
         grid-column: 2/3;
@@ -753,8 +753,8 @@ footer{
        position: relative;
        width: 95%;
        left: 2.5%;
-       font-family:roboto;
-       font-size: 75%;    
+       font-family: 'Lobster Two', cursive;
+       font-size: 85%;    
 
     }
 
@@ -1041,8 +1041,8 @@ footer{
        position: relative;
        width: 95%;
        left: 2.5%;
-       font-family:roboto;
-       font-size: 70%;    
+       font-family: 'Lobster Two', cursive;
+       font-size: 85%;    
 
     }
 
